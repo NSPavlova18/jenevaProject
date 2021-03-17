@@ -392,7 +392,8 @@ SCHOOL del(SCHOOL school)
 }//deletes elements and frees up memory (doesn't work for some reason)
 void credits()
 {
-	//front end dev here
+	cout << "Our team: "<<endl;
+	cout << "Nevena Pavlova and Zhenya Yordanova"<<endl;
 }//outputs the team
 SCHOOL edit(SCHOOL school)
 {
